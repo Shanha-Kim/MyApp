@@ -8,3 +8,5 @@ Kosta Edu github lecture
 
 ## Commit을 위한 수정
 
+## git merge 테스트용
+### git conflict 발생
