@@ -8,3 +8,4 @@ Kosta Edu github lecture
 
 ## Commit을 위한 수정
 
+## merge를 연습 위한 conflict 만들기
